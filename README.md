@@ -1,3 +1,3 @@
 # CLI-custom-design
-<img align = "center" width="750" height="200" src="https://github.com/suubh/CLI-custom-design/blob/main/Screenshot%20.png" /><br>
+<img align = "center" width="820" height="200" src="https://github.com/suubh/CLI-custom-design/blob/main/Screenshot%20.png" /><br>
 Design your CLI application .
