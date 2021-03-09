@@ -10,4 +10,4 @@ Design your CLI application with your custom names.
 
 
   
-### 🚩 To check ,clone this repo and `cd` to the CLI-custom-directory and run `node try.js`
+### 🚩 To check ,clone this repo and `cd` to the CLI-custom-design directory and run `node try.js`
